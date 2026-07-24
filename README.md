@@ -4,10 +4,6 @@ An ML-powered fraud detection system for UPI transactions using an ensemble of *
 
 ---
 
-## 🚀 Demo
-> Add a screenshot or GIF of your Streamlit app here after running it
-
----
 
 ## 🧠 Tech Stack
 | Component | Tool |
